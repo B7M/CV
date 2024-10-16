@@ -1,3 +1,3 @@
 # CV
 
-Sharing my CV in a more readable format.
+Sharing my CV as PDF file.
